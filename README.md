@@ -1,4 +1,4 @@
-# Numerical Techniques: Load flow study using Gauss-Seidel method and Newton-Raphson methods
+# Load flow study using Gauss-Seidel method and Newton-Raphson methods
 
 This project focuses on implementing two essential numerical techniques — Gauss-Seidel and Newton-Raphson methods — to perform load flow analysis in power systems. These methods are widely used in electrical engineering for solving systems of nonlinear equations and analyzing voltage profiles across power networks.
 
@@ -29,9 +29,9 @@ This project focuses on implementing two essential numerical techniques — Gaus
 
 ## 📂 Folder Structure
 
--├── Code/ # MATLAB scripts for both methods (to be added or unzipped)
--├── Report/ # Final report PDF file
--└── README.md # Project documentation
+├── Code/ # MATLAB scripts for both methods
+├── Report/ # Final report PDF file
+└── README.md # Project documentation
 
 
 ## 🖥️ Tools Used
