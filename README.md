@@ -26,65 +26,6 @@ This project focuses on implementing two essential numerical techniques — Gaus
 - Newton-Raphson method using polar coordinates
 - Comparison of accuracy, speed, memory usage, and convergence rate
 
-## 📂 Folder Structure
-
-# Load Flow Study using Gauss-Seidel and Newton-Raphson Methods
-
-This project focuses on implementing two essential numerical techniques — Gauss-Seidel and Newton-Raphson methods — to perform load flow analysis in power systems. These methods are widely used in electrical engineering for solving systems of nonlinear equations and analyzing voltage profiles across power networks.
-
-## 📄 Project Overview
-
-- **Course:** EEE 3200: Numerical Techniques Lab  
-- **Semester:** Fall 2023  
-- **Group:** 08  
-- **Submitted to:** Mr. Raiyan Basher (Lecturer, Dept. of EEE)  
-- **University:** United International University  
-
-## 👥 Team Members
-
-| ID         | Name                  |
-|------------|-----------------------|
-| 021191058  | Ayman Zafar           |
-| 021211018  | Noushadul Alam        |
-| 021211020  | Sayem Hossain Rafi    |
-
-## 🧠 Key Topics
-
-- Power system load flow analysis
-- Iterative solution of nonlinear equations
-- Gauss-Seidel method for rectangular coordinate-based solving
-- Newton-Raphson method using polar coordinates
-- Comparison of accuracy, speed, memory usage, and convergence rate
-
-## 📂 Folder Structure
-
-# Load Flow Study using Gauss-Seidel and Newton-Raphson Methods
-
-This project focuses on implementing two essential numerical techniques — Gauss-Seidel and Newton-Raphson methods — to perform load flow analysis in power systems. These methods are widely used in electrical engineering for solving systems of nonlinear equations and analyzing voltage profiles across power networks.
-
-## 📄 Project Overview
-
-- **Course:** EEE 3200: Numerical Techniques Lab  
-- **Semester:** Fall 2023  
-- **Group:** 08  
-- **Submitted to:** Mr. Raiyan Basher (Lecturer, Dept. of EEE)  
-- **University:** United International University  
-
-## 👥 Team Members
-
-| ID         | Name                  |
-|------------|-----------------------|
-| 021191058  | Ayman Zafar           |
-| 021211018  | Noushadul Alam        |
-| 021211020  | Sayem Hossain Rafi    |
-
-## 🧠 Key Topics
-
-- Power system load flow analysis
-- Iterative solution of nonlinear equations
-- Gauss-Seidel method for rectangular coordinate-based solving
-- Newton-Raphson method using polar coordinates
-- Comparison of accuracy, speed, memory usage, and convergence rate
 
 ## 📂 Folder Structure
 
@@ -118,7 +59,8 @@ You can view the full project report here:
 ## 📬 Author Info
 
 **Ayman Zafar**  
-Undergraduate, EEE  
+B.Sc. in Electrical and Electronic Engineering  
 United International University  
-Email: [your-email@example.com]  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+Email: [nov.aymanz@gmail.com]  
+GitHub: [https://github.com/aymanzafar]
+Linkedin: [https://www.linkedin.com/in/ayman-zafar]
