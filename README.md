@@ -43,7 +43,8 @@ This project focuses on implementing two essential numerical techniques — Gaus
 ## 📘 Report
 
 You can view the full project report here:  
-📄 [`Report/final_report.pdf`](./Report/fProject-Report 2.0.pdf)
+📄 Project-Report 2.0.pdf
+[`Report/final_report.pdf`](./Report/fProject-Report 2.0.pdf)
 
 ## 📊 Comparison Summary
 
